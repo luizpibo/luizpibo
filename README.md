@@ -1,6 +1,6 @@
 # Welcome 🧐
 
-I'm Luiz Fernando, I'm living in Distrito Federal/Brasil.
+<p align="center">I'm Luiz Fernando, I'm living in Distrito Federal/Brasil.</p>
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizpibo&langs_count=8&theme=radical&layout=compact"/>
