@@ -7,7 +7,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizpibo&langs_count=8&theme=radical&layout=compact"/>
 </div>
 
-## My stack 📚
+## My stack 📚 
 
 <div align="center" style="display: inline-block;">
   <br/>
@@ -20,8 +20,6 @@
   <img align="center" alt="luiz-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <br/>
 </div>
-
-## Top langs 👅
 
 <br/><h3 align="center">Visitor's count :eyes:</h3><br/>
 <p align="center"><img src="https://profile-counter.glitch.me/{luizpibo}/count.svg" alt="contador luizpibo :: Visitor's Count" /></p>
