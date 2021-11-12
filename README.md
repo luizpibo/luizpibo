@@ -2,11 +2,11 @@
 
 I'm Luiz Fernando, I'm living in Distrito Federal/Brasil.
 
-## My stack
+## My stack 📚
 
-## Top langs
+## Top langs 👅
 
 
-![luizpibo's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=luizpibo&langs_count=5&theme=tokyonight&layout=compact)
+![luizpibo's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luizpibo&langs_count=5&theme=tokyonight&layout=compact)
 ![luizpibo's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizpibo&show_icons=true&theme=radical)
 
